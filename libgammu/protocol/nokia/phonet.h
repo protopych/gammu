@@ -22,7 +22,7 @@
 #define PHONET_BLUE_FRAME_ID	0x19
 #define PHONET_DKU2_FRAME_ID    0x1b
 #define PHONET_DEVICE_PHONE   	0x00 /* Nokia mobile phone */
-#define PHONET_DEVICE_PC      	0x0c /* Our PC */
+#define PHONET_DEVICE_PC      	0x10 /* Our PC */
 #define PHONET_BLUE_DEVICE_PC   0x10 /* Our PC */
 
 typedef struct {
